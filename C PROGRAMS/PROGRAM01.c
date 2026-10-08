@@ -3,13 +3,15 @@ int main()
 {
     int i,j;
     //luckyy
-    for(i=1;i<=8;i++)
+    for(i=1;i<=5;i++)
     {
         for(j=1;j<=i;j++)
         {
-         printf("%d",j);
+            printf("*");
+
         }
         printf("\n");
     }
-return 0;
+   return 0; 
+
 }
