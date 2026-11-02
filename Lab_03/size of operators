@@ -1,9 +1,0 @@
-#include<stdio.h>
-int main() 
-{
-    int a,b;
-    double d;
-    printf("size of int a = %d\n",sizeof(a));
-    printf("size of int b = %d\n",sizeof(b));
-    return 0;
-}
